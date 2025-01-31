@@ -4,10 +4,9 @@
     <CheatEntry>
       <ID>101</ID>
       <Description>"Reroll"</Description>
-      <LastState Value="966" RealAddress="125AAB46E08"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>130</Offset>
         <Offset>70</Offset>
@@ -18,10 +17,9 @@
     <CheatEntry>
       <ID>102</ID>
       <Description>"Skill1Damage"</Description>
-      <LastState Value="12" RealAddress="126A7501514"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -33,10 +31,9 @@
     <CheatEntry>
       <ID>103</ID>
       <Description>"Skill1CoolDown"</Description>
-      <LastState Value="1.84799993" RealAddress="126A750152C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>2C</Offset>
         <Offset>5B0</Offset>
@@ -48,10 +45,9 @@
     <CheatEntry>
       <ID>104</ID>
       <Description>"Skill1Range"</Description>
-      <LastState Value="0.1000000015" RealAddress="126A750155C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>5C</Offset>
         <Offset>5B0</Offset>
@@ -63,10 +59,9 @@
     <CheatEntry>
       <ID>105</ID>
       <Description>"Skill1Radius"</Description>
-      <LastState Value="864.000061" RealAddress="126A750158C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>8C</Offset>
         <Offset>5B0</Offset>
@@ -78,10 +73,9 @@
     <CheatEntry>
       <ID>106</ID>
       <Description>"Skill1ProjectileCount"</Description>
-      <LastState Value="12" RealAddress="126A7501514"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -93,10 +87,9 @@
     <CheatEntry>
       <ID>107</ID>
       <Description>"Skill1Duration"</Description>
-      <LastState Value="864.000061" RealAddress="126A750158C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>8C</Offset>
         <Offset>5B0</Offset>
@@ -108,9 +101,8 @@
     <CheatEntry>
       <ID>202</ID>
       <Description>"Skill2Damage"</Description>
-      <LastState Value="888888" Activated="1" RealAddress="126CC9B2714"/>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -122,10 +114,9 @@
     <CheatEntry>
       <ID>203</ID>
       <Description>"Skill2CoolDown"</Description>
-      <LastState Value="3.079999924" RealAddress="126CC9B272C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>2C</Offset>
         <Offset>5B0</Offset>
@@ -137,10 +128,9 @@
     <CheatEntry>
       <ID>204</ID>
       <Description>"Skill2Range"</Description>
-      <LastState Value="30" RealAddress="126CC9B275C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>5C</Offset>
         <Offset>5B0</Offset>
@@ -152,10 +142,9 @@
     <CheatEntry>
       <ID>205</ID>
       <Description>"Skill2Radius"</Description>
-      <LastState Value="999999" Activated="1" RealAddress="126CC9B278C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>8C</Offset>
         <Offset>5B0</Offset>
@@ -167,10 +156,9 @@
     <CheatEntry>
       <ID>206</ID>
       <Description>"Skill2ProjectileCount"</Description>
-      <LastState Value="888888" RealAddress="126CC9B2714"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -182,10 +170,9 @@
     <CheatEntry>
       <ID>207</ID>
       <Description>"Skill2Duration"</Description>
-      <LastState Value="999999" RealAddress="126CC9B278C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>8C</Offset>
         <Offset>5B0</Offset>
@@ -195,11 +182,25 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
+      <ID>513</ID>
+      <Description>"TrackCooldown01"</Description>
+      <VariableType>Float</VariableType>
+      <Address>"client.dll"+0511F938</Address>
+      <Offsets>
+        <Offset>44</Offset>
+        <Offset>5B0</Offset>
+        <Offset>38</Offset>
+        <Offset>1E8</Offset>
+        <Offset>8</Offset>
+        <Offset>68</Offset>
+        <Offset>190</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
       <ID>302</ID>
       <Description>"Skill3Damage"</Description>
-      <LastState Value="100005" RealAddress="126C7252A14"/>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -211,10 +212,9 @@
     <CheatEntry>
       <ID>303</ID>
       <Description>"Skill3CoolDown"</Description>
-      <LastState Value="7.200000286" RealAddress="126C7252A2C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>2C</Offset>
         <Offset>5B0</Offset>
@@ -226,10 +226,9 @@
     <CheatEntry>
       <ID>304</ID>
       <Description>"Skill3Range"</Description>
-      <LastState Value="777777" Activated="1" RealAddress="126C7252A5C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>5C</Offset>
         <Offset>5B0</Offset>
@@ -241,10 +240,9 @@
     <CheatEntry>
       <ID>305</ID>
       <Description>"Skill3Radius"</Description>
-      <LastState Value="10" RealAddress="126C7252A8C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>8C</Offset>
         <Offset>5B0</Offset>
@@ -256,10 +254,9 @@
     <CheatEntry>
       <ID>306</ID>
       <Description>"Skill3ProjectileCount"</Description>
-      <LastState Value="100005" Activated="1" RealAddress="126C7252A14"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -271,10 +268,9 @@
     <CheatEntry>
       <ID>307</ID>
       <Description>"Skill3Duration"</Description>
-      <LastState Value="10" RealAddress="126C7252A8C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>8C</Offset>
         <Offset>5B0</Offset>
@@ -284,11 +280,10 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>508</ID>
+      <ID>308</ID>
       <Description>"TrackCoolDown"</Description>
-      <LastState Value="0.5" Activated="1" RealAddress="126C7252A44"/>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>44</Offset>
         <Offset>5B0</Offset>
@@ -300,11 +295,24 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
+      <ID>309</ID>
+      <Description>"Skill3Pickup"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>"client.dll"+0511F938</Address>
+      <Offsets>
+        <Offset>A4</Offset>
+        <Offset>5B0</Offset>
+        <Offset>58</Offset>
+        <Offset>240</Offset>
+        <Offset>190</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
       <ID>402</ID>
       <Description>"Skill4Damage"</Description>
-      <LastState Value="12" RealAddress="125F0700C14"/>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -316,10 +324,9 @@
     <CheatEntry>
       <ID>403</ID>
       <Description>"Skill4CoolDown"</Description>
-      <LastState Value="26.39999962" RealAddress="125F0700C2C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>2C</Offset>
         <Offset>5B0</Offset>
@@ -331,10 +338,9 @@
     <CheatEntry>
       <ID>404</ID>
       <Description>"Skill4Range"</Description>
-      <LastState Value="3.5" RealAddress="125F0700C5C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>5C</Offset>
         <Offset>5B0</Offset>
@@ -346,10 +352,9 @@
     <CheatEntry>
       <ID>405</ID>
       <Description>"Skill4Radius"</Description>
-      <LastState Value="240.0000153" RealAddress="125F0700C8C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>8C</Offset>
         <Offset>5B0</Offset>
@@ -361,10 +366,9 @@
     <CheatEntry>
       <ID>406</ID>
       <Description>"Skill4ProjectileCount"</Description>
-      <LastState Value="12" RealAddress="125F0700C14"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -376,10 +380,9 @@
     <CheatEntry>
       <ID>407</ID>
       <Description>"Skill4Duration"</Description>
-      <LastState Value="240.0000153" RealAddress="125F0700C8C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>8C</Offset>
         <Offset>5B0</Offset>
@@ -391,9 +394,8 @@
     <CheatEntry>
       <ID>502</ID>
       <Description>"Skill5Damage"</Description>
-      <LastState Value="12" RealAddress="126D0312414"/>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -405,10 +407,9 @@
     <CheatEntry>
       <ID>503</ID>
       <Description>"Skill5CoolDown"</Description>
-      <LastState Value="5.279999733" RealAddress="126D031242C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>2C</Offset>
         <Offset>5B0</Offset>
@@ -420,10 +421,9 @@
     <CheatEntry>
       <ID>504</ID>
       <Description>"Skill5Range"</Description>
-      <LastState Value="1.5" RealAddress="126D031245C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>5C</Offset>
         <Offset>5B0</Offset>
@@ -435,10 +435,9 @@
     <CheatEntry>
       <ID>505</ID>
       <Description>"Skill5Radius"</Description>
-      <LastState Value="1" RealAddress="126D031248C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>8C</Offset>
         <Offset>5B0</Offset>
@@ -450,10 +449,9 @@
     <CheatEntry>
       <ID>506</ID>
       <Description>"Skill5ProjectileCount"</Description>
-      <LastState Value="12" RealAddress="126D0312414"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -465,10 +463,9 @@
     <CheatEntry>
       <ID>507</ID>
       <Description>"Skill5Duration"</Description>
-      <LastState Value="1" RealAddress="126D031248C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>8C</Offset>
         <Offset>5B0</Offset>
@@ -480,10 +477,9 @@
     <CheatEntry>
       <ID>509</ID>
       <Description>"Skill5Pickup"</Description>
-      <LastState Value="600" RealAddress="126D03124A4"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+0511C8F8</Address>
+      <Address>"client.dll"+0511F938</Address>
       <Offsets>
         <Offset>A4</Offset>
         <Offset>5B0</Offset>
