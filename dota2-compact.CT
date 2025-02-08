@@ -5,7 +5,7 @@
       <ID>5</ID>
       <Description>"Reroll"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>188</Offset>
         <Offset>18</Offset>
@@ -16,7 +16,7 @@
       <ID>52</ID>
       <Description>"Skill2-Track-Cooldown"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>44</Offset>
         <Offset>5B0</Offset>
@@ -30,7 +30,7 @@
       <Description>"Skill2-Track-Damage"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>2C</Offset>
         <Offset>5B0</Offset>
@@ -43,7 +43,7 @@
       <ID>54</ID>
       <Description>"Skill2-Track-Projectile"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -56,7 +56,7 @@
       <ID>57</ID>
       <Description>"Skill2-Track-RangeOrDuration"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>5C</Offset>
         <Offset>5B0</Offset>
@@ -70,7 +70,7 @@
       <Description>"Skill3-Snotty-PickupRadius"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>A4</Offset>
         <Offset>5B0</Offset>
@@ -83,7 +83,7 @@
       <ID>42</ID>
       <Description>"Skill4-Stampede-Cooldown"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>44</Offset>
         <Offset>5B0</Offset>

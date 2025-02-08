@@ -5,7 +5,7 @@
       <ID>5</ID>
       <Description>"Reroll"</Description>
       <VariableType>4 Bytes</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>188</Offset>
         <Offset>18</Offset>
@@ -16,7 +16,7 @@
       <ID>22</ID>
       <Description>"Skill1-Cooldown"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>44</Offset>
         <Offset>5B0</Offset>
@@ -30,7 +30,7 @@
       <Description>"Skill1-Damage"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>2C</Offset>
         <Offset>5B0</Offset>
@@ -43,7 +43,7 @@
       <ID>24</ID>
       <Description>"Skill1-Projectile"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -57,7 +57,7 @@
       <Description>"Skill1-Radius"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>8C</Offset>
         <Offset>5B0</Offset>
@@ -70,7 +70,7 @@
       <ID>26</ID>
       <Description>"Skill1-Range"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>74</Offset>
         <Offset>5B0</Offset>
@@ -83,7 +83,7 @@
       <ID>27</ID>
       <Description>"Skill1-Duration"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>5C</Offset>
         <Offset>5B0</Offset>
@@ -97,7 +97,7 @@
       <Description>"Skill1-PickupRadius"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>A4</Offset>
         <Offset>5B0</Offset>
@@ -111,7 +111,7 @@
       <ID>52</ID>
       <Description>"Skill2-Track-Cooldown"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>44</Offset>
         <Offset>5B0</Offset>
@@ -125,7 +125,7 @@
       <Description>"Skill2-Track-Damage"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>2C</Offset>
         <Offset>5B0</Offset>
@@ -138,7 +138,7 @@
       <ID>54</ID>
       <Description>"Skill2-Track-Projectile"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -152,7 +152,7 @@
       <Description>"Skill2-Track-Radius"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>8C</Offset>
         <Offset>5B0</Offset>
@@ -165,7 +165,7 @@
       <ID>56</ID>
       <Description>"Skill2-Track-Range"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>74</Offset>
         <Offset>5B0</Offset>
@@ -178,7 +178,7 @@
       <ID>57</ID>
       <Description>"Skill2-Track-Duration"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>5C</Offset>
         <Offset>5B0</Offset>
@@ -192,7 +192,7 @@
       <Description>"Skill2-Track-PickupRadius"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>A4</Offset>
         <Offset>5B0</Offset>
@@ -205,7 +205,7 @@
       <ID>32</ID>
       <Description>"Skill3-Snotty-Cooldown"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>44</Offset>
         <Offset>5B0</Offset>
@@ -219,7 +219,7 @@
       <Description>"Skill3-Snotty-Damage"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>2C</Offset>
         <Offset>5B0</Offset>
@@ -232,7 +232,7 @@
       <ID>34</ID>
       <Description>"Skill3-Snotty-Projectile"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -246,7 +246,7 @@
       <Description>"Skill3-Snotty-Radius"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>8C</Offset>
         <Offset>5B0</Offset>
@@ -259,7 +259,7 @@
       <ID>36</ID>
       <Description>"Skill3-Snotty-Range"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>74</Offset>
         <Offset>5B0</Offset>
@@ -272,7 +272,7 @@
       <ID>37</ID>
       <Description>"Skill3-Snotty-Duration"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>5C</Offset>
         <Offset>5B0</Offset>
@@ -286,7 +286,7 @@
       <Description>"Skill3-Snotty-PickupRadius"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>A4</Offset>
         <Offset>5B0</Offset>
@@ -299,7 +299,7 @@
       <ID>42</ID>
       <Description>"Skill4-Stampede-Cooldown"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>44</Offset>
         <Offset>5B0</Offset>
@@ -313,7 +313,7 @@
       <Description>"Skill4-Stampede-Damage"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>2C</Offset>
         <Offset>5B0</Offset>
@@ -326,7 +326,7 @@
       <ID>44</ID>
       <Description>"Skill4-Stampede-Projectile"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -340,7 +340,7 @@
       <Description>"Skill4-Stampede-Radius"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>8C</Offset>
         <Offset>5B0</Offset>
@@ -353,7 +353,7 @@
       <ID>46</ID>
       <Description>"Skill4-Stampede-Range"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>74</Offset>
         <Offset>5B0</Offset>
@@ -366,7 +366,7 @@
       <ID>47</ID>
       <Description>"Skill4-Stampede-Duration"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>5C</Offset>
         <Offset>5B0</Offset>
@@ -380,7 +380,7 @@
       <Description>"Skill4-Stampede-PickupRadius"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>A4</Offset>
         <Offset>5B0</Offset>
@@ -393,7 +393,7 @@
       <ID>52</ID>
       <Description>"Skill5-Helix-Cooldown"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>44</Offset>
         <Offset>5B0</Offset>
@@ -407,7 +407,7 @@
       <Description>"Skill5-Helix-Damage"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>2C</Offset>
         <Offset>5B0</Offset>
@@ -420,7 +420,7 @@
       <ID>54</ID>
       <Description>"Skill5-Helix-Projectile"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>14</Offset>
         <Offset>5B0</Offset>
@@ -434,7 +434,7 @@
       <Description>"Skill5-Helix-Radius"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>8C</Offset>
         <Offset>5B0</Offset>
@@ -447,7 +447,7 @@
       <ID>56</ID>
       <Description>"Skill5-Helix-Range"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>74</Offset>
         <Offset>5B0</Offset>
@@ -460,7 +460,7 @@
       <ID>57</ID>
       <Description>"Skill5-Helix-Duration"</Description>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>5C</Offset>
         <Offset>5B0</Offset>
@@ -474,7 +474,7 @@
       <Description>"Skill5-Helix-PickupRadius"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"client.dll"+05174B38</Address>
+      <Address>"client.dll"+05175B88</Address>
       <Offsets>
         <Offset>A4</Offset>
         <Offset>5B0</Offset>
